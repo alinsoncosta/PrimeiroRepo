@@ -1,5 +1,5 @@
 Terra
-Marte
+Marta
 Saturno
 Netuno
-Mercúrio
+
