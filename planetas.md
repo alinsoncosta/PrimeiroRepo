@@ -3,4 +3,5 @@ Marte
 Saturno
 Netuno
 lua
+sol
 
