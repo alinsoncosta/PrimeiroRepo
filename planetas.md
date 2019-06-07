@@ -8,3 +8,4 @@ mercúrio
 plutão
 tatoine
 urano
+netuno
