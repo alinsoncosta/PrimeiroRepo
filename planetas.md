@@ -7,3 +7,4 @@ sol
 mercúrio
 plutão
 tatoine
+netuno
