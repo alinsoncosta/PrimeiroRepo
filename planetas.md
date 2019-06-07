@@ -11,3 +11,4 @@ urano
 netuno
 jupter
 planeta flash
+planeta macaco
